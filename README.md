@@ -11,7 +11,7 @@
 2. 원하는 폴더에 압축 풀기
 3. 서버 실행
    * windows -> run-windows.bat 실행
-   * linux -> (sudo) sh run-linux.sh
+   * linux -> sudo sh run-linux.sh
 4. 서버 접속
 5. 팀 선택 `/team join <team> <player>`
 6. 게임 시작 `/speculation start <world> <players> <teamMatch>`
